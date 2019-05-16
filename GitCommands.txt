@@ -1,0 +1,8 @@
+git config --global user.name "ftn99"
+git config --global user.name ftn99@yahoo.com
+git clone https://github.com/ftn99/MVC.git
+git add Gitcommands.txt
+git status
+git commit -m "comment text" GitCommands.txt
+git push -u origin master
+
